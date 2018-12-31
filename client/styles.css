@@ -1,0 +1,51 @@
+.title{
+    text-align: center;
+}
+
+.mew-form{
+    width: 50%;
+    margin: 0 auto;
+}
+
+.loading{
+    text-align: center;
+}
+
+.mews{
+    /* margin-top: 50px; */
+    width: 60%;
+    margin: 0 auto;
+    /* background-color: aquamarine; */
+}
+
+.mews div{
+    background-color: aqua;
+    margin-top: 5px;
+    padding: 15px;
+    border: 2px solid cornsilk;
+    border-radius: 25px;
+}
+.mews h3{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20px;
+}
+
+.mews p{
+    font-family: cursive;
+    color: brown;
+}
+
+header{
+    background-color: antiquewhite;
+    border-radius: 15px;
+}
+
+header h1{
+    color: olive;
+}
+
+form label{
+    color: lightskyblue;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
